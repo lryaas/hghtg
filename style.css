@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+.cabeçalho {
+    background-color: #474343;
+    color: rgb(237, 243, 238);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.imagem-cabeçalho{
+    width: 15%;
+}
+
+.cabeçalho-lista-i{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.carro-imagem{
+    width: 25%;
+}
+
+.mercedez{
+    background-image: linear-gradient(#474343, #39405A);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0; 
+}
+
+.mercedez-titulo{
+    padding: 24px 0;
+}
+
+.mercedez-div-conteudo{
+    width: 35%;
+}
